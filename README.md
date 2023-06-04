@@ -21,3 +21,8 @@ there are two animate functions in the program that display two animated sprites
 
 converting animated sprite images was done at https://lvgl.io/tools/imageconverter using cf_true_color and C array. It will generate a file with multiple methods of encoding the image and colors. this program uses /*Pixel format: Fix 0xFF: 8 bit, Red: 8 bit, Green: 8 bit, Blue: 8 bit*/
 RGB format so only that part will need be pasted in the image.c or ytimage.c files. You will need to update the animate functions and defines to reflect the X and Y resolution as well as how many frames are to be displayed. 
+
+Creators YT channel.
+
+https://www.youtube.com/channel/UCu9VPhckeKef3dNAcJGBXwQ
+
